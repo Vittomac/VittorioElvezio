@@ -1,26 +1,20 @@
 {
-  "FullName": "Francesco Bonizzi",
-  "Headline": "Software developer",
-  "CurrentPosition": "Gruppo Infor",
-  "Address": "Fidenza, Emilia Romagna, Italy",
-  "Email": "fbonizzi.90@gmail.com",
-  "BirthDate": "1990-08-05",
-  "PhotoUrl": "https://raw.githubusercontent.com/FrancescoBonizzi/CurriculumVitaeExporter/master/FrancescoBonizziConsoleCurriculum/FrancescoBonizzi.jpg",
+  "FullName": "Vittorio Elvezio",
+  "Headline": "***",
+  "CurrentPosition": "***",
+  "Address": "Mariano Comense, Como, Italy",
+  "Email": "vitto2996@hotmail.it",
+  "BirthDate": "1996-01-29",
+  "PhotoUrl": "https://raw.githubusercontent.com/FrancescoBonizzi/CurriculumVitaeExporter/master/VittorioElvezio.jpg",
 
   "Skills": [
-    ".NET: C# / VB / Full Framework / Core / ASP.NET / MVC",
-    "Microsoft SQL Server / Service Bus / RabbitMQ",
-    "Service Fabric / Azure / DevOps",
-    "Git",
-    "Web-Queue-Worker / Microservices",
-    "Typescript / Javascript / HTML / CSS"
+    "Programming: C++ / Fortran / Matlab"
   ],
 
   "Hobbies": [
     "Playing piano",
     "Literature",
-    "Developing video games",
-    "Contributing to open source projects"
+    "Developing video games"
   ],
 
   "Experiences": [
@@ -47,10 +41,10 @@
 
   "Education": [
     {
-      "Description": "High school: 100/100 at Liceo Scientifico Contardo Ferrini (MN)"
+      "Description": "High school: 76/100 at ITIS Jean Monnet (Mariano Comense)"
     },
     {
-      "Description": "Bachelor's degree in computer science: 100/110 at Università degli Studi Di Parma (PR)"
+      "Description": "Bachelor's degree in Chemistry and Industrial Chemistry: 110/110 cum laude at Università degli Studi Dell'Insubria (CO)"
     }
   ],
 
